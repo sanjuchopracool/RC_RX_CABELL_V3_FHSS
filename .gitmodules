@@ -1,0 +1,3 @@
+[submodule "sdcc-stdlib"]
+	path = sdcc-stdlib
+	url = https://github.com/sanjuchopracool/sdcc-stdlib.git
